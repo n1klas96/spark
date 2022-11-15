@@ -6,13 +6,11 @@
 
 https://n1klas96.github.io/SE_2_Portfolio/
 
-# Softwareentwicklung 2 ILV: Portfolio des Projekts Frunch Infinity
+# Handling Big Data with Apache Spark
 
-In diesem Repository werden Inhalte zwischen der Lehrveranstaltung Softwareentwicklung 2 (ILV) und einem Sofwareentwicklungsprojekt (Frunch Infinity) miteinander verknüpft.
-Durch den oben angegebenen Link gelangen Sie auf die entsprechenden Inhalte. Als Vorlage wurde das Repository von FastPages genutzt.
+This Repository is used to track my journey in handling Apache-Spark.
 
-
-## Inhalte 
+## Content 
 
 - [Requirements Engineering](https://github.com/n1klas96/SE_2_Portfolio/blob/master/_posts/2022-06-24-01Requirements-Engineering.md)
 
